@@ -1,0 +1,23 @@
+.creatProduct-page{
+
+}
+.creatProduct-page form{
+    
+}
+#product-title,#product-desc ,#product-size , #creat-btn,#inputfile{
+    width: 100%;
+    height: 50px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: larger;
+    outline: none;
+}
+#creat-btn{
+    background-color: dodgerblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#creat-btn:hover{
+    opacity: 0.8;
+}
